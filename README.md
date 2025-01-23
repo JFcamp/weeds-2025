@@ -24,7 +24,7 @@ O objetivo deste projeto é criar um modelo capaz de classificar imagens de dife
    - Métricas como acurácia, precisão, recall e F1-score foram utilizadas para avaliar o desempenho.
 
 5. **Resultados**:
-   - O modelo final apresentou uma acurácia de XX%.
+   - O modelo final apresentou uma acurácia de 97.03%, usando a EfficientNet-V2.
    - As principais confusões foram observadas entre [detalhar classes].
 
 ## Como Utilizar
