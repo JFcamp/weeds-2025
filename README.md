@@ -25,7 +25,11 @@ O objetivo deste projeto é criar um modelo capaz de classificar imagens de dife
 
 5. **Resultados**:
    - O modelo final apresentou uma acurácia de 97.03%, usando a EfficientNet-V2.
-   - As principais confusões foram observadas entre [detalhar classes].
+   - EfficientNet V2 demonstrou o melhor desempenho geral com e sem DA, mostrando maior robustez e precisão.
+   - O aumento de dados(data augmentation) foi crucial para melhorar o desempenho do modelo, particularmente em precisão e F1-Score.
+6. **Contribuições deste estudo:**:
+   -  Este trabalho fornece insights valiosos para a construção de modelos eficientes e precisos, com aplicações potenciais no gerenciamento de culturas do mundo real.
+   -  Permite uma classificação rápida e precisa de ervas daninhas, além de respostas rápidas, minimizando riscos sem a necessidade de um especialista.
 
 ## Como Utilizar
 1. Clone este repositório:
