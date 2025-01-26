@@ -27,11 +27,49 @@ O objetivo deste projeto é criar um modelo capaz de classificar imagens de dife
    - O modelo final apresentou uma acurácia de 97.03%, usando a EfficientNet-V2.
    - EfficientNet V2 demonstrou o melhor desempenho geral com e sem DA, mostrando maior robustez e precisão.
    - O aumento de dados(data augmentation) foi crucial para melhorar o desempenho do modelo, particularmente em precisão e F1-Score.
+     
 6. **Contribuições deste estudo:**:
    -  Este trabalho fornece insights valiosos para a construção de modelos eficientes e precisos, com aplicações potenciais no gerenciamento de culturas do mundo real.
    -  Permite uma classificação rápida e precisa de ervas daninhas, além de respostas rápidas, minimizando riscos sem a necessidade de um especialista.
+
+## Estrutura do Repositório
+-`code`: Esta pasta, contém os códigos necessários para a realização do projeto.
+
+-`Relatorio de visao`: Esta pasta contém um relatório, redigido pelos autores, explicando todo processo do trabalho, juntamente com os melhores resultados obtidos durante a confecção do mesmo.
+
+-`Video`: Contém um breve vídeo com explicações mais especificas e detalhadas, das consideradas, partes mais importantes de todo o projeto pelos autores. 
 
 ## Como Utilizar
 1. Clone este repositório:
    ```bash
    git clone https://github.com/usuario/projeto-classificacao-ervas.git
+
+## Dependências
+
+Para execução dos códigos presentes neste repositório, se faz necessário obter um ambiente jupyter.
+EXECUTANDO O JUPYTER NOTEBOOK
+
+1. Criação do ambiente:
+```bash
+conda create --nome nome_do_ambiente
+```
+2. Ativando o ambiente criado do ambiente:
+```bash
+conda activate --nome nome_do_ambiente
+```
+3. Instalando jupyter notebook:
+```bash
+conda install jupyter
+```
+4. Iniciando o jupyter notebook:
+```bash
+jupyter notebook
+```
+
+## Participantes
+Bernardo Silva Ribeiro Duarte - 8155
+
+Elisa Ribeiro Gonçalves - 8771
+
+Pedro Henrique Campos Moreira - 8745
+
