@@ -65,6 +65,8 @@ conda install jupyter
 ```bash
 jupyter notebook
 ```
+## Link para o vídeo
+https://youtu.be/y3xf-jocjsI
 
 ## Participantes
 Bernardo Silva Ribeiro Duarte - 8155
